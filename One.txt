@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 
 Hello master!
+=======
+Hello test!
+>>>>>>> testing
